@@ -1,2 +1,10 @@
 console.log("Hello Everyone");
 console.log("Second commit");
+console.log("Third commit");
+
+//  git restore -> When you have not commit your code
+//  git revert  -> When we want to move into any perticular commit with new commit hash
+//  git reset --soft   -> 
+//  git reset --mixed  or git reset
+//  git reset --hard   -> 
+
